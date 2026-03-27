@@ -1,0 +1,8 @@
+/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net8.0/billylouisengineeringconsultant.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net8.0/billylouisengineeringconsultant.AssemblyInfoInputs.cache
+/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net8.0/billylouisengineeringconsultant.AssemblyInfo.cs
+/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net8.0/billylouisengineeringconsultant.csproj.CoreCompileInputs.cache
+/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net8.0/billylouisengineeringconsultant.MvcApplicationPartsAssemblyInfo.cache
+/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net8.0/billylouisengineeringconsultant.RazorAssemblyInfo.cache
+/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net8.0/billylouisengineeringconsultant.RazorAssemblyInfo.cs
+/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net8.0/billylouisengineeringconsultant.sourcelink.json

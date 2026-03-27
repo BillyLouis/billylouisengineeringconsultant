@@ -29,3 +29,76 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+/* Header buttons */
+.top-links {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+
+.header-btn {
+    margin-left: 15px;
+    padding: 8px 14px;
+    background-color: #5d1292; /* Purple */
+    color: #f0f1e4;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.header-btn:hover {
+    background-color: #4b087a; /* Darker purple */
+}
+
+/* Certificate section */
+.cert-section {
+    display: flex;
+    margin-top: 40px;
+}
+
+.cert-list {
+    width: 25%;
+    padding-right: 20px;
+}
+
+.cert-list h2 {
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.cert-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.cert-list li {
+    padding: 8px 0;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.cert-list li:hover {
+    color: #007bff;
+}
+
+/* Preview window */
+.cert-preview {
+    width: 75%;
+    height: 600px;
+}
+
+.cert-preview iframe {
+    width: 100%;
+    height: 100%;
+    border: 1px solid #ccc;
+}
+
+/* Resume section */
+.resume-section {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.resume-section h2 {
+    margin-bottom: 20px;
+}

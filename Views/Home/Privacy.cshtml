@@ -1,6 +1,59 @@
-﻿@{
+﻿<p>@{
     ViewData["Title"] = "Privacy Policy";
 }
-<h1>@ViewData["Title"]</h1>
 
-<p>Use this page to detail your site's privacy policy.</p>
+<h1 class="text-center">@ViewData["Title"]</h1>
+
+<div class="container mt-4">
+    <h3>Overview</h3>
+    <p>
+        This website is a personal engineering portfolio created and maintained by Billy J. Louis III.
+        Its purpose is to showcase professional experience, projects, certificates, and related work.
+    </p>
+
+    <h3>Data Collection</h3>
+    <p>
+        This site does <strong>not</strong> collect personal information from visitors.
+        No forms, accounts, or tracking systems are used.
+    </p>
+    <p>
+        The only data automatically collected is standard, non‑identifiable web server information such as:
+    </p>
+    <ul>
+        <li>Browser type</li>
+        <li>Operating system</li>
+        <li>Approximate device resolution</li>
+        <li>Basic traffic logs</li>
+    </ul>
+    <p>
+        This information is generated automatically by the hosting platform and is used only for performance and security monitoring.
+    </p>
+
+    <h3>Cookies</h3>
+    <p>
+        This site does <strong>not</strong> use cookies for tracking, analytics, advertising, or personalization.
+        Any cookies present are default, temporary technical cookies required by the hosting platform.
+    </p>
+
+    <h3>External Links</h3>
+    <p>
+        This website contains links to external platforms such as GitHub, LinkedIn, a chip design portfolio, and PDF certificates.
+        These external sites have their own privacy policies. Once you leave this site, their policies apply.
+    </p>
+
+    <h3>Security</h3>
+    <p>
+        The site is hosted on Microsoft Azure App Service, which provides encrypted HTTPS connections,
+        platform‑level security, and automatic updates. No visitor data is stored or processed by this site.
+    </p>
+
+    <h3>Contact</h3>
+    <p>
+        For questions about this privacy policy or the website, you may reach out through my
+        <a href="https://www.linkedin.com/in/billy-louis-a3196964/" target="_blank">LinkedIn profile</a>.
+    </p>
+
+    <p class="text-muted mt-4">
+        <em>Last updated: @DateTime.Now.ToString("MMMM yyyy")</em>
+    </p>
+</div></p>

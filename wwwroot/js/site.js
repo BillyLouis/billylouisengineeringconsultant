@@ -2,3 +2,6 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
+function showCert(path) {
+    document.getElementById("certFrame").src = path;
+}

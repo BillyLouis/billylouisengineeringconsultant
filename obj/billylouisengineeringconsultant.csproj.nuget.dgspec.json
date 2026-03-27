@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/billy/billylouisengineeringconsultant/billylouisengineeringconsultant.csproj": {}
+    "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/billylouisengineeringconsultant.csproj": {}
   },
   "projects": {
-    "/home/billy/billylouisengineeringconsultant/billylouisengineeringconsultant.csproj": {
+    "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/billylouisengineeringconsultant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/billy/billylouisengineeringconsultant/billylouisengineeringconsultant.csproj",
+        "projectUniqueName": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/billylouisengineeringconsultant.csproj",
         "projectName": "billylouisengineeringconsultant",
-        "projectPath": "/home/billy/billylouisengineeringconsultant/billylouisengineeringconsultant.csproj",
-        "packagesPath": "/home/billy/.nuget/packages/",
-        "outputPath": "/home/billy/billylouisengineeringconsultant/obj/",
+        "projectPath": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/billylouisengineeringconsultant.csproj",
+        "packagesPath": "/home/ubuntu_dock/.nuget/packages/",
+        "outputPath": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/billy/.nuget/NuGet/NuGet.Config"
+          "/home/ubuntu_dock/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

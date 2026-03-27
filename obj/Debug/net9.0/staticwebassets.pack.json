@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net9.0/scopedcss/projectbundle/billylouisengineeringconsultant.bundle.scp.css",
+      "PackagePath": "staticwebassets/billylouisengineeringconsultant.fbk2lui7c3.bundle.scp.css"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/AZ104MSAzureAdminPreReqRotate.pdf",
+      "PackagePath": "staticwebassets/certs/AZ104MSAzureAdminPreReqRotate.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_AZ104AzureAdmin1of3.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_AZ104AzureAdmin1of3.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_AZ104MSAzureAdminPreReq.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_AZ104MSAzureAdminPreReq.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_AZ104MSAzureToolsAndSecurity.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_AZ104MSAzureToolsAndSecurity.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_Docker_Fundamentals.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_Docker_Fundamentals.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_Github_FundamentalBeginner.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_Github_FundamentalBeginner.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_Github_Fundamentals.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_Github_Fundamentals.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_Github_FundamentalsWorkFlow1.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_Github_FundamentalsWorkFlow1.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_Github_FundamentalsWorkFlow2AdvanceFeatures.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_Github_FundamentalsWorkFlow2AdvanceFeatures.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_Github_and_Git_ForDevOps.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_Github_and_Git_ForDevOps.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_ISO45001_B6ZFX5H3IXD4.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_ISO45001_B6ZFX5H3IXD4.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_MS_IntroductionToSecureNetworking.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_MS_IntroductionToSecureNetworking.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_MS_Program2_PMP_TeamBuilding.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_MS_Program2_PMP_TeamBuilding.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_MS_Program3_PMP_CommunicateWithStakeholders.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_MS_Program3_PMP_CommunicateWithStakeholders.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_MS_Program4_PMP_Performance_Domains.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_MS_Program4_PMP_Performance_Domains.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_MS_Program5_PMP_Agile_and_Hybrid_Approaches.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_MS_Program5_PMP_Agile_and_Hybrid_Approaches.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_MS_Program6_PMP_Finance_and_Investment.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_MS_Program6_PMP_Finance_and_Investment.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_MS_ProgramManagementFundamentals.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_MS_ProgramManagementFundamentals.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_MS_introductionToCloudComputing.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_MS_introductionToCloudComputing.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_MachineLearningStandFord.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_MachineLearningStandFord.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_RDMAprogramming.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_RDMAprogramming.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_TCP_IP_Fundamentals.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_TCP_IP_Fundamentals.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_mmWaveCircuitDesign.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_mmWaveCircuitDesign.pdf"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/jquery/dist/jquery.slim.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.js"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/jquery/dist/jquery.slim.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.js"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/jquery/dist/jquery.slim.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.map"
+    },
+    {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/resume/EngineeringBJL1Resume910ref.pdf",
+      "PackagePath": "staticwebassets/resume/EngineeringBJL1Resume910ref.pdf"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.billylouisengineeringconsultant.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.billylouisengineeringconsultant.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.billylouisengineeringconsultant.props",
+      "PackagePath": "build\\billylouisengineeringconsultant.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.billylouisengineeringconsultant.props",
+      "PackagePath": "buildMultiTargeting\\billylouisengineeringconsultant.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.billylouisengineeringconsultant.props",
+      "PackagePath": "buildTransitive\\billylouisengineeringconsultant.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
