@@ -396,6 +396,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\certs\Certificate_MS_ProgramManagementFundamentals.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\certs\Certificate_MS_ProgramManagementSpecialization_VG66HRH67TLA.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>billylouisengineeringconsultant</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/billylouisengineeringconsultant</BasePath>
+      <RelativePath>certs/Certificate_MS_ProgramManagementSpecialization_VG66HRH67TLA.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>43dbae5xsb</Fingerprint>
+      <Integrity>AOmWjC/QtJ9mCzn6x5CyDO12xedz2o4bl6/aSPw93Dk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\certs\Certificate_MS_ProgramManagementSpecialization_VG66HRH67TLA.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\certs\Certificate_RDMAprogramming.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>billylouisengineeringconsultant</SourceId>
@@ -444,8 +462,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>o49ybveqsp</Fingerprint>
-      <Integrity>SHbOCCamsPSMLox6Ni918HBzhLWAMJEnmE7xH3kulKU=</Integrity>
+      <Fingerprint>mo27mjp8hj</Fingerprint>
+      <Integrity>qmR1WgSQeYWZ2/wzkGu4NImLQ7q67l1pF0xdYT5h8T4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>

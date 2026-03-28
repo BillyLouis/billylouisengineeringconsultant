@@ -95,4 +95,4 @@
 /home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net9.0/billylouisengineeringconsultant.genruntimeconfig.cache
 /home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net9.0/ref/billylouisengineeringconsultant.dll
 /home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net9.0/compressed/e36j88mqkh-ejgo92dab0.gz
-/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net9.0/compressed/awjk8v5wb3-o49ybveqsp.gz
+/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net9.0/compressed/awjk8v5wb3-mo27mjp8hj.gz

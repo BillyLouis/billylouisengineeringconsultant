@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GQF6AWJTunEHb2vrw6dflaB8r2mWd5KsbUP0ROCs8Gk=",
+  "Hash": "bV489hkmSTQeQ1qzbeie/A/gOVzlozZtpqxHGcAh2x0=",
   "Source": "billylouisengineeringconsultant",
   "BasePath": "_content/billylouisengineeringconsultant",
   "Mode": "Default",
@@ -458,12 +458,12 @@
       "OriginalItemSpec": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net9.0/compressed/awjk8v5wb3-o49ybveqsp.gz",
+      "Identity": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net9.0/compressed/awjk8v5wb3-mo27mjp8hj.gz",
       "SourceId": "billylouisengineeringconsultant",
       "SourceType": "Discovered",
       "ContentRoot": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/billylouisengineeringconsultant",
-      "RelativePath": "css/site#[.{fingerprint=o49ybveqsp}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=mo27mjp8hj}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -472,8 +472,8 @@
       "RelatedAsset": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/css/site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "igjh01ecbi",
-      "Integrity": "wgAo+cVN3mgw1aUA7nrpE0sHjtSD22WuF6QDnCo7tvM=",
+      "Fingerprint": "srr6c7m2go",
+      "Integrity": "6EWlkOYn2E7Y2keHOJwPG6VvsUQFoejpMxKCZzgtXI4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/css/site.css"
@@ -1844,6 +1844,27 @@
       "OriginalItemSpec": "wwwroot/certs/Certificate_MS_ProgramManagementFundamentals.pdf"
     },
     {
+      "Identity": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_MS_ProgramManagementSpecialization_VG66HRH67TLA.pdf",
+      "SourceId": "billylouisengineeringconsultant",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/",
+      "BasePath": "_content/billylouisengineeringconsultant",
+      "RelativePath": "certs/Certificate_MS_ProgramManagementSpecialization_VG66HRH67TLA#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "43dbae5xsb",
+      "Integrity": "AOmWjC/QtJ9mCzn6x5CyDO12xedz2o4bl6/aSPw93Dk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/certs/Certificate_MS_ProgramManagementSpecialization_VG66HRH67TLA.pdf"
+    },
+    {
       "Identity": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_RDMAprogramming.pdf",
       "SourceId": "billylouisengineeringconsultant",
       "SourceType": "Discovered",
@@ -1900,8 +1921,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "o49ybveqsp",
-      "Integrity": "SHbOCCamsPSMLox6Ni918HBzhLWAMJEnmE7xH3kulKU=",
+      "Fingerprint": "mo27mjp8hj",
+      "Integrity": "qmR1WgSQeYWZ2/wzkGu4NImLQ7q67l1pF0xdYT5h8T4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
@@ -5550,6 +5571,88 @@
       ]
     },
     {
+      "Route": "certs/Certificate_MS_ProgramManagementSpecialization_VG66HRH67TLA.43dbae5xsb.pdf",
+      "AssetFile": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_MS_ProgramManagementSpecialization_VG66HRH67TLA.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "357629"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AOmWjC/QtJ9mCzn6x5CyDO12xedz2o4bl6/aSPw93Dk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Mar 2026 14:53:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "43dbae5xsb"
+        },
+        {
+          "Name": "label",
+          "Value": "certs/Certificate_MS_ProgramManagementSpecialization_VG66HRH67TLA.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AOmWjC/QtJ9mCzn6x5CyDO12xedz2o4bl6/aSPw93Dk="
+        }
+      ]
+    },
+    {
+      "Route": "certs/Certificate_MS_ProgramManagementSpecialization_VG66HRH67TLA.pdf",
+      "AssetFile": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_MS_ProgramManagementSpecialization_VG66HRH67TLA.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "357629"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AOmWjC/QtJ9mCzn6x5CyDO12xedz2o4bl6/aSPw93Dk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Mar 2026 14:53:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AOmWjC/QtJ9mCzn6x5CyDO12xedz2o4bl6/aSPw93Dk="
+        }
+      ]
+    },
+    {
       "Route": "certs/Certificate_RDMAprogramming.7oz9u75yli.pdf",
       "AssetFile": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_RDMAprogramming.pdf",
       "Selectors": [],
@@ -5715,12 +5818,12 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net9.0/compressed/awjk8v5wb3-o49ybveqsp.gz",
+      "AssetFile": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net9.0/compressed/awjk8v5wb3-mo27mjp8hj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001418439716"
+          "Quality": "0.001416430595"
         }
       ],
       "ResponseHeaders": [
@@ -5730,15 +5833,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "704"
+          "Value": "705"
         },
         {
           "Name": "ETag",
-          "Value": "\"wgAo+cVN3mgw1aUA7nrpE0sHjtSD22WuF6QDnCo7tvM=\""
+          "Value": "\"6EWlkOYn2E7Y2keHOJwPG6VvsUQFoejpMxKCZzgtXI4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Mar 2026 05:13:50 GMT"
+          "Value": "Sat, 28 Mar 2026 15:06:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5758,13 +5861,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"SHbOCCamsPSMLox6Ni918HBzhLWAMJEnmE7xH3kulKU=\""
+          "Value": "W/\"qmR1WgSQeYWZ2/wzkGu4NImLQ7q67l1pF0xdYT5h8T4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SHbOCCamsPSMLox6Ni918HBzhLWAMJEnmE7xH3kulKU="
+          "Value": "sha256-qmR1WgSQeYWZ2/wzkGu4NImLQ7q67l1pF0xdYT5h8T4="
         }
       ]
     },
@@ -5787,11 +5890,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SHbOCCamsPSMLox6Ni918HBzhLWAMJEnmE7xH3kulKU=\""
+          "Value": "\"qmR1WgSQeYWZ2/wzkGu4NImLQ7q67l1pF0xdYT5h8T4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Mar 2026 05:13:50 GMT"
+          "Value": "Sat, 28 Mar 2026 15:06:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5801,13 +5904,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SHbOCCamsPSMLox6Ni918HBzhLWAMJEnmE7xH3kulKU="
+          "Value": "sha256-qmR1WgSQeYWZ2/wzkGu4NImLQ7q67l1pF0xdYT5h8T4="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net9.0/compressed/awjk8v5wb3-o49ybveqsp.gz",
+      "AssetFile": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net9.0/compressed/awjk8v5wb3-mo27mjp8hj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5816,7 +5919,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "704"
+          "Value": "705"
         },
         {
           "Name": "Content-Type",
@@ -5824,11 +5927,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wgAo+cVN3mgw1aUA7nrpE0sHjtSD22WuF6QDnCo7tvM=\""
+          "Value": "\"6EWlkOYn2E7Y2keHOJwPG6VvsUQFoejpMxKCZzgtXI4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Mar 2026 05:13:50 GMT"
+          "Value": "Sat, 28 Mar 2026 15:06:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5846,18 +5949,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wgAo+cVN3mgw1aUA7nrpE0sHjtSD22WuF6QDnCo7tvM="
+          "Value": "sha256-6EWlkOYn2E7Y2keHOJwPG6VvsUQFoejpMxKCZzgtXI4="
         }
       ]
     },
     {
-      "Route": "css/site.o49ybveqsp.css",
-      "AssetFile": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net9.0/compressed/awjk8v5wb3-o49ybveqsp.gz",
+      "Route": "css/site.mo27mjp8hj.css",
+      "AssetFile": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net9.0/compressed/awjk8v5wb3-mo27mjp8hj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001418439716"
+          "Quality": "0.001416430595"
         }
       ],
       "ResponseHeaders": [
@@ -5867,15 +5970,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "704"
+          "Value": "705"
         },
         {
           "Name": "ETag",
-          "Value": "\"wgAo+cVN3mgw1aUA7nrpE0sHjtSD22WuF6QDnCo7tvM=\""
+          "Value": "\"6EWlkOYn2E7Y2keHOJwPG6VvsUQFoejpMxKCZzgtXI4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Mar 2026 05:13:50 GMT"
+          "Value": "Sat, 28 Mar 2026 15:06:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5895,13 +5998,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"SHbOCCamsPSMLox6Ni918HBzhLWAMJEnmE7xH3kulKU=\""
+          "Value": "W/\"qmR1WgSQeYWZ2/wzkGu4NImLQ7q67l1pF0xdYT5h8T4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "o49ybveqsp"
+          "Value": "mo27mjp8hj"
         },
         {
           "Name": "label",
@@ -5909,12 +6012,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SHbOCCamsPSMLox6Ni918HBzhLWAMJEnmE7xH3kulKU="
+          "Value": "sha256-qmR1WgSQeYWZ2/wzkGu4NImLQ7q67l1pF0xdYT5h8T4="
         }
       ]
     },
     {
-      "Route": "css/site.o49ybveqsp.css",
+      "Route": "css/site.mo27mjp8hj.css",
       "AssetFile": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5932,11 +6035,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SHbOCCamsPSMLox6Ni918HBzhLWAMJEnmE7xH3kulKU=\""
+          "Value": "\"qmR1WgSQeYWZ2/wzkGu4NImLQ7q67l1pF0xdYT5h8T4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Mar 2026 05:13:50 GMT"
+          "Value": "Sat, 28 Mar 2026 15:06:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5946,7 +6049,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "o49ybveqsp"
+          "Value": "mo27mjp8hj"
         },
         {
           "Name": "label",
@@ -5954,13 +6057,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SHbOCCamsPSMLox6Ni918HBzhLWAMJEnmE7xH3kulKU="
+          "Value": "sha256-qmR1WgSQeYWZ2/wzkGu4NImLQ7q67l1pF0xdYT5h8T4="
         }
       ]
     },
     {
-      "Route": "css/site.o49ybveqsp.css.gz",
-      "AssetFile": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net9.0/compressed/awjk8v5wb3-o49ybveqsp.gz",
+      "Route": "css/site.mo27mjp8hj.css.gz",
+      "AssetFile": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/obj/Debug/net9.0/compressed/awjk8v5wb3-mo27mjp8hj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5969,7 +6072,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "704"
+          "Value": "705"
         },
         {
           "Name": "Content-Type",
@@ -5977,11 +6080,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wgAo+cVN3mgw1aUA7nrpE0sHjtSD22WuF6QDnCo7tvM=\""
+          "Value": "\"6EWlkOYn2E7Y2keHOJwPG6VvsUQFoejpMxKCZzgtXI4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Mar 2026 05:13:50 GMT"
+          "Value": "Sat, 28 Mar 2026 15:06:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5999,7 +6102,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "o49ybveqsp"
+          "Value": "mo27mjp8hj"
         },
         {
           "Name": "label",
@@ -6007,7 +6110,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wgAo+cVN3mgw1aUA7nrpE0sHjtSD22WuF6QDnCo7tvM="
+          "Value": "sha256-6EWlkOYn2E7Y2keHOJwPG6VvsUQFoejpMxKCZzgtXI4="
         }
       ]
     },

@@ -77,6 +77,10 @@
       "PackagePath": "staticwebassets/certs/Certificate_MS_ProgramManagementFundamentals.pdf"
     },
     {
+      "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_MS_ProgramManagementSpecialization_VG66HRH67TLA.pdf",
+      "PackagePath": "staticwebassets/certs/Certificate_MS_ProgramManagementSpecialization_VG66HRH67TLA.pdf"
+    },
+    {
       "Id": "/home/ubuntu_dock/go/src/github.com/BillyLouis/billylouisengineeringconsultant/wwwroot/certs/Certificate_MS_introductionToCloudComputing.pdf",
       "PackagePath": "staticwebassets/certs/Certificate_MS_introductionToCloudComputing.pdf"
     },

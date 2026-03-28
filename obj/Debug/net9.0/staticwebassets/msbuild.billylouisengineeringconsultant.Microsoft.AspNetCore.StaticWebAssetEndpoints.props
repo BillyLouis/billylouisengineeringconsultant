@@ -264,6 +264,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s1vuj4owdh"},{"Name":"integrity","Value":"sha256-UAQWozkjsv2lF7rmYMgpSFdN9gxC2ihGWQ/Ske6GwIw="},{"Name":"label","Value":"_content/billylouisengineeringconsultant/certs/Certificate_MS_ProgramManagementFundamentals.pdf"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"290281"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022UAQWozkjsv2lF7rmYMgpSFdN9gxC2ihGWQ/Ske6GwIw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 27 Mar 2026 04:08:38 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/billylouisengineeringconsultant/certs/Certificate_MS_ProgramManagementSpecialization_VG66HRH67TLA.43dbae5xsb.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\certs\Certificate_MS_ProgramManagementSpecialization_VG66HRH67TLA.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"43dbae5xsb"},{"Name":"integrity","Value":"sha256-AOmWjC/QtJ9mCzn6x5CyDO12xedz2o4bl6/aSPw93Dk="},{"Name":"label","Value":"_content/billylouisengineeringconsultant/certs/Certificate_MS_ProgramManagementSpecialization_VG66HRH67TLA.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"357629"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022AOmWjC/QtJ9mCzn6x5CyDO12xedz2o4bl6/aSPw93Dk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 28 Mar 2026 14:53:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/billylouisengineeringconsultant/certs/Certificate_MS_ProgramManagementSpecialization_VG66HRH67TLA.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\certs\Certificate_MS_ProgramManagementSpecialization_VG66HRH67TLA.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AOmWjC/QtJ9mCzn6x5CyDO12xedz2o4bl6/aSPw93Dk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"357629"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022AOmWjC/QtJ9mCzn6x5CyDO12xedz2o4bl6/aSPw93Dk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 28 Mar 2026 14:53:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/billylouisengineeringconsultant/certs/Certificate_RDMAprogramming.7oz9u75yli.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\certs\Certificate_RDMAprogramming.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -291,14 +303,14 @@
     <StaticWebAssetEndpoint Include="_content/billylouisengineeringconsultant/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SHbOCCamsPSMLox6Ni918HBzhLWAMJEnmE7xH3kulKU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1801"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022SHbOCCamsPSMLox6Ni918HBzhLWAMJEnmE7xH3kulKU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 27 Mar 2026 05:13:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qmR1WgSQeYWZ2/wzkGu4NImLQ7q67l1pF0xdYT5h8T4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1801"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022qmR1WgSQeYWZ2/wzkGu4NImLQ7q67l1pF0xdYT5h8T4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 28 Mar 2026 15:06:10 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/billylouisengineeringconsultant/css/site.o49ybveqsp.css">
+    <StaticWebAssetEndpoint Include="_content/billylouisengineeringconsultant/css/site.mo27mjp8hj.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o49ybveqsp"},{"Name":"integrity","Value":"sha256-SHbOCCamsPSMLox6Ni918HBzhLWAMJEnmE7xH3kulKU="},{"Name":"label","Value":"_content/billylouisengineeringconsultant/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1801"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022SHbOCCamsPSMLox6Ni918HBzhLWAMJEnmE7xH3kulKU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 27 Mar 2026 05:13:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mo27mjp8hj"},{"Name":"integrity","Value":"sha256-qmR1WgSQeYWZ2/wzkGu4NImLQ7q67l1pF0xdYT5h8T4="},{"Name":"label","Value":"_content/billylouisengineeringconsultant/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1801"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022qmR1WgSQeYWZ2/wzkGu4NImLQ7q67l1pF0xdYT5h8T4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 28 Mar 2026 15:06:10 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/billylouisengineeringconsultant/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
