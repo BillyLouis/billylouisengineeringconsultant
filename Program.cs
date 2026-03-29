@@ -1,3 +1,7 @@
+
+
+//=============== Only for .NET 9 ===============
+/*
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -25,5 +29,37 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
 
+
+app.Run();
+*///============================================
+
+//=============== For .NET 8 and below ===============
+var builder = WebApplication.CreateBuilder(args);
+
+// Add MVC services
+builder.Services.AddControllersWithViews();
+
+var app = builder.Build();
+
+// Error handling
+if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler("/Home/Error");
+    app.UseHsts();
+}
+
+app.UseHttpsRedirection();
+
+// Static files (wwwroot)
+app.UseStaticFiles();
+
+app.UseRouting();
+
+app.UseAuthorization();
+
+// MVC routing
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
